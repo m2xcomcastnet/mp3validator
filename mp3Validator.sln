@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mp3Validator", "mp3Validator.csproj", "{775C32B9-CC8D-4358-B487-6FF0DD8FC4B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775C32B9-CC8D-4358-B487-6FF0DD8FC4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775C32B9-CC8D-4358-B487-6FF0DD8FC4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775C32B9-CC8D-4358-B487-6FF0DD8FC4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775C32B9-CC8D-4358-B487-6FF0DD8FC4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F50D59F-989E-46D6-9DF4-6EEBFE4805D3}
+	EndGlobalSection
+EndGlobal
